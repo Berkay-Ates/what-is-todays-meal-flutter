@@ -1,6 +1,6 @@
 # what_is_meal_frontend
 
-A new Flutter project.
+YTU Yemekhane tekvimi
 
 ## Getting Started
 
